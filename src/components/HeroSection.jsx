@@ -9,9 +9,9 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <h1>Zuheib D Musse</h1>
-      <p>Why do blackpeople only have nightmares?</p>
+      <p>My sister cell stepped on my toe</p>
 
-        <p>Because they shot the last one that had a dream.</p>
+        <p>OW! Mitosis.</p>
       <div className='hero-btns'>
         <a href='https://github.com/hadeslaw'>
         <Button
